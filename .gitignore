@@ -1,0 +1,40 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Data files (large files that shouldn't be tracked)
+*.gpkg
+*.gdb/
+data/
+data_export/
+climate_download/
+Zip3_Population_Maps/
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Output images (optional - comment out if you want to track them)
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
